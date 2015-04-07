@@ -1,0 +1,24 @@
+{
+  "name": "interview-prep",
+  "version": "0.0.0",
+  "description": "Technical Interview Prep Questions",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephahn/interview-prep.git"
+  },
+  "author": "Joseph Ahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephahn/interview-prep/issues"
+  },
+  "homepage": "https://github.com/josephahn/interview-prep",
+  "dependencies": {
+    "mocha": "~2.2.3"
+  }
+}
