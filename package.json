@@ -5,6 +5,10 @@
   "directories": {
     "test": "test"
   },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  },
   "scripts": {
     "test": "mocha --reporter spec test"
   },
@@ -17,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/josephahn/interview-prep/issues"
   },
-  "homepage": "https://github.com/josephahn/interview-prep",
-  "dependencies": {
-    "mocha": "~2.2.3"
-  }
+  "homepage": "https://github.com/josephahn/interview-prep"
 }
